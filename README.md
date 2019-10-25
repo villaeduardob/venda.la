@@ -1,18 +1,20 @@
-# venda.la
-
 # Teste Programador PHP Back-end Pleno
-Eduardo Barros Villa - 25/10/2019
+<p>Eduardo Barros Villa - 25/10/2019</p>
 
 **Configurações iniciais**
 Arquivo: /.env
-  DB_CONNECTION=mysql
-  DB_HOST=127.0.0.1
-  DB_PORT=3306
-  DB_DATABASE=vendala
-  DB_USERNAME=xxxxxx 
-  DB_PASSWORD=xxxxxx
+<ul>
+<li>  DB_CONNECTION=mysql</li>
+<li>  DB_HOST=127.0.0.1</li>
+<li>  DB_PORT=3306</li>
+<li>  DB_DATABASE=vendala</li>
+<li>  DB_USERNAME=xxxxxx</li>
+<li>  DB_PASSWORD=xxxxxx</li>
+</ul>
 
-
-URL de login: http://127.0.0.1:[PORTA]/api/login (POST)
-Parametros: email: villa.eduardobarros@gmail.com
-	    password: 123456
+URL de login: http://127.0.0.1:[PORTA]/api/login (POST)<br>
+Parametros:
+<ul>
+<li>email: villa.eduardobarros@gmail.com</li>
+<li>password: 123456</li>
+</ul>
